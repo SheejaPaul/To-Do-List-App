@@ -8,9 +8,6 @@
 [![Watch the video](https://github.com/SheejaPaul/To-Do-List-App/blob/master/to-do-list-image.jpeg)](https://youtu.be/28d8gc3ZRC4)
 
 
-
-
-
 # Features
     
     Implemented OOP
