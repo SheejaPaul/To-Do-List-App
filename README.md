@@ -1,6 +1,8 @@
 # To-Do-List-App
 
-    Created a To-Do-List application using tableview. Also saved data, so even if user stops application the data is still there. Acheive this feature by using NSCoding.
+    Created a To-Do-List application using tableview. 
+    Also saved data, so even if user stops application the data is still there. 
+    Acheive this feature by using NSCoding.
 
 
 [![Watch the video](https://github.com/SheejaPaul/To-Do-List-App/blob/master/to-do-list-image.jpeg)](https://youtu.be/28d8gc3ZRC4)
