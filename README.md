@@ -9,14 +9,16 @@
 [![Watch the video](https://github.com/SheejaPaul/To-Do-List-App/blob/master/to-do-list-image.jpeg)](https://youtu.be/28d8gc3ZRC4)
 
 
-# Features
-    
-    Implemented OOP
-    Created the model for the ToDo item
-    Allowed the user to create a new to-do list
-    Added items to each to-do list
-    Used NSCoding for caching
-    Displayed correctly in both landscape and portrait orientations
-    Used Storyboard to layout all the Scenes and connected them
-    Allowed the user to check off and remove completed items
+
+## Features
+
+- [x] Implemented OOP
+- [x] Created the model for the ToDo item
+- [x] Allowed the user to create a new to-do list
+- [x] Added items to each to-do list
+- [x] Used NSCoding for caching
+- [x] Displayed correctly in both landscape and portrait orientations
+- [x] Used Storyboard to layout all the Scenes and connected them
+- [x] Allowed the user to check off and remove completed items 
+
     
