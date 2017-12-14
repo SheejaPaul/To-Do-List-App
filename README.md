@@ -1,12 +1,14 @@
 # To-Do-List-App
 
 Its a simple To-do list app where users can create a list of tasks under each list and maintain a set of such lists.
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Requirements](#requirements)
-- [License](#license)
 
-![image1](https://user-images.githubusercontent.com/31255999/34018223-c40d80c4-e0dd-11e7-8629-0d6e72f12132.png)
-![image2](https://user-images.githubusercontent.com/31255999/34018342-44ddf6f2-e0de-11e7-862f-7e2dd7556630.png)
+## Screenshots
+
+<img width="611" alt="screen shot 2017-12-14 at 3 04 40 pm" src="https://user-images.githubusercontent.com/31255999/34018736-37080764-e0e0-11e7-899d-bf39935fb7ae.png">
+
 
 
 ## Features
@@ -25,8 +27,6 @@ Its a simple To-do list app where users can create a list of tasks under each li
 - iOS 9.0+ 
 - Xcode 11+
 - Swift 3+
-
-## License
 
 
 ** This App ranked #1 out of 15 in the the class (General Assembly iOS immersive SF)
