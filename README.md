@@ -2,10 +2,6 @@
 
     Its a simple To-do list app where users can create a list of tasks under each list and maintain a set of such lists.
     
-
-[![Watch the video](https://github.com/SheejaPaul/To-Do-List-App/blob/master/to-do-list-image.jpeg)](https://youtu.be/28d8gc3ZRC4)
-
-
 - [Features](#features)
 - [Requirements](#requirements)
 - [License](#license)
