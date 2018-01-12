@@ -28,6 +28,4 @@ Its a simple To-do list app where users can create a list of tasks under each li
 - Xcode 11+
 - Swift 3+
 
-
-** This App ranked #1 out of 15 in the the class (General Assembly iOS immersive SF)
     
